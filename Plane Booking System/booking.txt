@@ -1,0 +1,2 @@
+1;1;roberto retuya;Cash;roberto123@gmail.com;2023-06-09;2;10000.0;2
+2;2;junerey retuya;Cash;rey1234@gmail.com;2023-06-09;1;2500.0;2
